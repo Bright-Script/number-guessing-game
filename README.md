@@ -35,7 +35,7 @@ No external libraries are required. The project uses Python's built-in `random` 
 Open your terminal and run:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Bright-Script/number-guessing-game.git
 ```
 
 ### 2. Navigate to the Project Directory
@@ -71,9 +71,3 @@ python3 main.py
 5. Try to guess the correct number before running out of attempts.
 6. After the round, choose whether you want to play again.
 
-## Example Gameplay
-
-```text
-6
-
-```
